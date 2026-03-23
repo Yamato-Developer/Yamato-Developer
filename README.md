@@ -1,7 +1,10 @@
-# 👋 Chào anh/chị, tôi là Yamato-Developer
+# 👋 Chào bạn, tôi là Frontend Developer
 
-### 🚀 Middle React Native Developer | Cựu quân nhân sẵn sàng thực chiến!
-Tôi có gần **4 năm kinh nghiệm** phát triển Mobile App. Sau khi hoàn thành Nghĩa vụ Quân sự, tôi đã trở lại với đầy đủ năng lượng và sự cập nhật công nghệ mới nhất.
+### 🚀 React Native Developer | ReactJs Developer
+Với **4 năm kinh nghiệm** chuyên sâu về ứng dụng di động (React Native) và phát triển trang web (ReactJS), mục tiêu của tôi là không ngừng phát triển kỹ
+năng và kinh nghiệm của mình trong một môi trường sáng tạo và đổi mới. Tôi mong muốn tạo ra những sản phẩm đột phá mang lại giá trị và
+tác động tích cực cho công ty và khách hàng. Tôi mong muốn được tham gia vào các dự án đa dạng và đầy thử thách, được làm việc với những
+đồng đội đầy nhiệt huyết và phát triển tương lai của công nghệ di động và website
 
 ---
 
@@ -12,7 +15,7 @@ Tôi có gần **4 năm kinh nghiệm** phát triển Mobile App. Sau khi hoàn 
 
 ### 🛠️ Vũ khí chiến đấu (Tech Stack)
 - **Frontend:** React Native (Hooks, Context, Navigation), TypeScript, Expo.
-- **State Management:** Zustand, Redux Toolkit.
+- **State Management:** Zustand, Redux Toolkit, Mobx.
 - **Networking:** Axios, RESTful API, React Query.
 - **Backend:** PHP (Laravel), MySQL.
 - **Tools:** Git, Postman, Android Studio, Xcode.
@@ -20,7 +23,7 @@ Tôi có gần **4 năm kinh nghiệm** phát triển Mobile App. Sau khi hoàn 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yamato-Tester&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yamato-Tester&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamato-Tester&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamato-Developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📬 Liên hệ tác chiến
 - 📧 Email: vuhoanggiang2501@gmail.com
