@@ -21,8 +21,8 @@ tác động tích cực cho công ty và khách hàng. Tôi mong muốn đượ
 - **Tools:** Git, Postman, Android Studio, Xcode.
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yamato-Tester&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yamato-Tester&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Yamato-Developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yamato-Developer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamato-Developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📬 Liên hệ tác chiến
